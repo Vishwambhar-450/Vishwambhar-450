@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Latchup Badge](https://latchup.app/badge/user/6f089b30-8b5e-4025-9be8-963cec2d6504.svg)](https://latchup.app/user/6f089b30-8b5e-4025-9be8-963cec2d6504)
 <!--
 **Vishwambhar-450/Vishwambhar-450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
